@@ -3,11 +3,11 @@ import time
 import datetime
 import random
 
-CHAVE_API = "5597794728:AAGfwOg3RijfPrQ5S_Iw6NKAuYucNEdIsO8" # BOT FOX
+CHAVE_API = "6723085944:AAFoGwKmani3Vu_AcM3kT3VjhUSCOfFgS_E" # BOT FOX
 
 bot = telebot.TeleBot(CHAVE_API)
 
-group_id = '-1001866260'
+group_id = '-5586244514'
 
 
 
