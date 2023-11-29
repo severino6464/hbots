@@ -7,7 +7,7 @@ CHAVE_API = "5939971508:AAE_Al4i1Hf7CnHSMU_VaGG-jTr_FRdd9eQ" # BOT FOX
 
 bot = telebot.TeleBot(CHAVE_API)
 
-group_id = '-4079793356'
+group_id = '-1001943077650'
 
 
 
