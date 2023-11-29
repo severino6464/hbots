@@ -8,7 +8,7 @@ CHAVE_API = "5939971508:AAE_Al4i1Hf7CnHSMU_VaGG-jTr_FRdd9eQ"
 
 bot = telebot.TeleBot(CHAVE_API)
 
-channel_id = '1001868515049'  
+channel_id = '-4079793356'  
 
 possibilidades_minas = [
     "Apostar em números baixos [1-18]",
