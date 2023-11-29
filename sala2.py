@@ -3,8 +3,7 @@ import datetime
 import random
 import time
 
-
-CHAVE_API = "5939971508:AAE_Al4i1Hf7CnHSMU_VaGG-jTr_FRdd9eQ" 
+CHAVE_API = "5597794728:AAGfwOg3RijfPrQ5S_Iw6NKAuYucNEdIsO8"  # Replace with your Telegram Bot API key
 
 bot = telebot.TeleBot(CHAVE_API)
 
